@@ -1,0 +1,58 @@
+
+*{
+	font-family: 'Raleway', sans-serif;
+}
+.titulo-h2{
+	color: green;
+}
+
+#element-for-modify{
+	color: #a22;
+}
+
+[rancio="sii"]{
+	color: blue;
+}
+
+p {
+	color: #EABE3F
+}
+
+.form__input--active{
+	color: silver
+}
+
+.form__input{
+	color: violet;
+}
+
+h2{
+	background-color: red;
+	padding: 100px;
+	display: inline-block;
+	text-align: center;
+	margin: 5px;
+	border-radius: 20px;
+	border: 10px solid blue;
+	box-shadow: 2px 4px 10px 0 #000;
+	text-shadow: 2px 2px 7px #fff;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
